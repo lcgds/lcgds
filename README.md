@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p>I’m currently learning Web Development at Senac University. So, feel free to check out my work in progress repositories.</p> 
+<p>I’m currently learning **Web Development** at Senac University. So, feel free to check out my work in progress repositories.</p> 
 <p>I love to learn interesting things and play games. Sometimes I can do both at the same time while coding. I guess that's why I like it so much.</p>
 
 ## Let's keep in touch 📫
