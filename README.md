@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<p>I’m currently learning <b>Web Development</b> at Senac University. So, feel free to check out my work in progress repositories.</p> 
-<p>I love to learn interesting things and play games. Sometimes I can do both at the same time while coding. I guess that's why I like it so much.</p>
+<p>I'm currently working as <b>Front-End Developer</b> at the Bank of Brazil.</p> 
+<p>Feel free to check out my repositories.</p> 
 
-## Let's keep in touch 📫
+## How to reache me 📫
 - [LinkedIn](https://www.linkedin.com/in/luiz-garrido/)
 - [E-mail](mailto:lcgds@live.com)
 - [Telegram](t.me/lcgds)
