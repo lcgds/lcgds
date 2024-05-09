@@ -1,24 +1,7 @@
-## Hi there 👋
+## About me
 
-<p>I'm currently working as <b>Front-End Developer</b> at the Bank of Brazil.</p> 
-<p>Feel free to check out my repositories.</p> 
+Hi there 👋
 
-## How to reache me 📫
-- [LinkedIn](https://www.linkedin.com/in/luiz-garrido/)
-- [E-mail](mailto:lcgds@live.com)
-- [Telegram](t.me/lcgds)
+I'm a Brazilian **Front-End Developer** currently working at the Bank of Brazil.
 
-<!--
-**lcgds/lcgds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out **my projects** here at GitHub or visit **my website** at [luizgarrido.dev](https://luizgarrido.dev).
