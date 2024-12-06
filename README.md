@@ -1,7 +1,7 @@
-## About me
+## Sobre mim
 
-Hi there 👋
+Olá 👋
 
-I'm a Brazilian **Front-End Developer** currently working at the Bank of Brazil.
+Eu sou um **Desenvolvedor Front-End Pleno** e atualmente trabalho como Assessor de TI no Banco do Brasil.
 
-Feel free to check out **my projects** here at GitHub or visit **my website** at [luizgarrido.dev](https://luizgarrido.dev).
+Sinta-se livre para explorar **meus projetos** aqui no GitHub ou visitar [**meu site**](https://luizgarrido.dev).
